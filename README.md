@@ -91,3 +91,9 @@ While RandomForestClassifier initially identified a set of important features (c
 
 ## Conclusion
 This project successfully developed and evaluated machine learning models for breast cancer diagnosis. Logistic Regression emerged as the most effective model, demonstrating high accuracy and precision, making it a promising candidate for assisting in medical diagnostic processes. The analysis also highlighted critical features that significantly contribute to the classification, offering valuable insights into the characteristics differentiating benign and malignant tumors. Further work could include exploring more advanced ensemble methods or deep learning techniques for potentially even higher predictive power.
+
+## Author
+
+**Hajar A**
+* [GitHub Profile](https://github.com/Ha-neu-l)
+* [LinkedIn Profile](https://www.linkedin.com/in/hajar-a-109a22229/) 
